@@ -1,0 +1,6 @@
+com\locadoraApi\dao\ConnectionFactory.class
+com\locadoraApi\LocadoraApiApplication.class
+com\locadoraApi\dao\MarcaDao.class
+com\locadoraApi\modelo\Marca.class
+com\locadoraApi\resources\MarcaResources.class
+com\locadoraApi\App.class
